@@ -1,4 +1,4 @@
-# resumatch-ai
+🚀 ResuMatch AI
 AI-powered resume matching and interview preparation SaaS prototype built with Bolt.new.
 # ResuMatch AI
 
