@@ -9,8 +9,11 @@ ResuMatch AI is an AI-assisted SaaS prototype designed to help job seekers impro
 This project was created as part of my AI builder journey using Bolt.new, prompt engineering, and modern SaaS product planning workflows.
 
 ## Project Status
+✅ Functional Web Platform
 
 🚧 Prototype / MVP Stage
+
+📈 Approximately 80% Complete
 
 ## Live Demo
 
